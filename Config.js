@@ -4,11 +4,11 @@ const birthdayConfig = {
   girlfriendName: "Diya",
   birthdayDate: "BIRTHDAY_DATE", // optional, not used by the site
   photos: [
-    { src:"Image/image2.jpg", type: "landscape", caption: "A beautiful moment 🌷" },
-    { src: "Image/image.jpg", type: "portrait", caption: "A face made for beautiful frames ✨" },
-    { src: "Image/image3.jpg", type: "portrait", caption: "A little mirror magic 💗" },
-    { src: "Image/image4.jpg", type: "landscape", caption: "Every picture has a little story." },
-    { src: "Image/image5.jpg", type: "portrait", caption: "Your camera roll has its own magic 🌷" }
+    { src:"Image /image2.jpg", type: "landscape", caption: "A beautiful moment 🌷" },
+    { src: "Image /image.jpg", type: "portrait", caption: "A face made for beautiful frames ✨" },
+    { src: "Image /image3.jpg", type: "portrait", caption: "A little mirror magic 💗" },
+    { src: "Image /image4.jpg", type: "landscape", caption: "Every picture has a little story." },
+    { src: "Image /image5.jpg", type: "portrait", caption: "Your camera roll has its own magic 🌷" }
   ],
   video: { src: "Image/VIDEO-2026-11-07-20-38-36.mp4", poster: "assets/images/video-poster.jpg", title: "A Little Memory" },
   backgroundMusic: "assets/audio/birthday-music.mp3",
