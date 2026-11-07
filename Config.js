@@ -10,7 +10,7 @@ const birthdayConfig = {
     { src: "Image /image4.jpg", type: "landscape", caption: "Every picture has a little story." },
     { src: "Image /image5.jpg", type: "portrait", caption: "Your camera roll has its own magic 🌷" }
   ],
-  video: { src: "Image/VIDEO-2026-11-07-20-38-36.mp4", poster: "assets/images/video-poster.jpg", title: "A Little Memory" },
+  video: { src: "Image /VIDEO-2026-11-07-20-38-36.mp4", poster: "assets/images/video-poster.jpg", title: "A Little Memory" },
   backgroundMusic: "assets/audio/birthday-music.mp3",
   showMusicButton: true,
 
